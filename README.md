@@ -1,4 +1,4 @@
-# IOE Question Paper Generator
+# IOE Entrance Model Question Paper Generator
 
 A Python-based tool that generates model question papers in PDF format for Institute of Engineering (IOE) courses with just a single click. This tool streamlines exam preparation by providing ready-to-print question papers for students and educators alike.
 
