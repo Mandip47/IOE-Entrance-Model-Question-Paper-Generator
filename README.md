@@ -14,7 +14,7 @@ A Python-based tool that generates model question papers in PDF format for Insti
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/Mandip47/IOE-Question-Paper-Generator.git
+   git clone https://github.com/Mandip47/IOE-Entrance-Model-Question-Paper-Generator.git
    ```
 2. **Install Dependencies:**
    ```bash
